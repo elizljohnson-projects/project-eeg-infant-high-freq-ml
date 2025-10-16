@@ -23,4 +23,4 @@ Software:
   - Scikit-learn 1.6.1
 
 Notes:  
-- Upload `hfb_utils.py` and `ml_utils.py` to the Colab File panel.
+- Run using the notebook `infant_hfb_ml.ipynb` with `hfb_utils.py` and `ml_utils.py` uploaded to the Colab File panel.
