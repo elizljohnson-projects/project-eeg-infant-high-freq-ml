@@ -9,7 +9,7 @@ This project (Part 2) addresses three goals, each linked to a primary result in 
 | :--- | :--- | :--- |
 |1. | HFB analyzed using MATLAB with FieldTrip | Reproduce HFB analysis using Python with MNE |
 |2. | Hierarchical models using all available data revealed greater HFB power in wake vs. sleep states in midline and central channels near fontanelles, and occipital channels over thin skull | Classify wake vs. sleep states using all available data from a single channel: Fz HFB (located over the anterior fontanelle) should discriminate states, whereas P3 HFB (over relatively thick skull) should not |
-|3. | Hierarchical models revealed that wake/sleep differences were detected with 90% reliability using limited data (5 samples per state from 10 subjects) | Classify wake vs. sleep states using with equivalent limited training data (5 samples per state from 10 subjects) from a single channel: Fz HFB should discriminate states, whereas P3 HFB should not |
+|3. | Hierarchical models revealed that wake/sleep differences were detected with 90% reliability using limited data | Classify wake vs. sleep states using with equivalent limited training data from a single channel: Fz HFB should discriminate states, whereas P3 HFB should not |
 
 Software:  
 - Python 3.12.12
