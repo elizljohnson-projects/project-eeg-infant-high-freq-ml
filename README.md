@@ -11,7 +11,7 @@ Our research aims to uncover mechanistic explanations of the neural basis of hum
 |2. | Hierarchical models using all available data revealed greater HFB power in wake vs. sleep states in midline and central channels near fontanelles, and occipital channels over thin skull | Classify wake vs. sleep states using all available data from a single channel: Fz HFB (located over the anterior fontanelle) should discriminate states, whereas P3 HFB (over relatively thick skull) should not |
 |3. | Hierarchical models using limited data detected wake/sleep differences with 90% reliability | Classify wake vs. sleep states using the equivalent limited data from a single channel: Fz HFB should discriminate states, whereas P3 HFB should not |
 
-Results demonstrate the feasibility of classification based on noninvasive HFB detection with minimal training data when a true signal is present, achieving above-chance accuracy.
+Results demonstrate the feasibility of classification within subjects based on noninvasive HFB detection with minimal training data when a true signal is present, achieving above-chance accuracy. Within-subject standardization on the full sample was necessary for robust cross-subject generalization.
 
 Publications or other papers using these scripts and/or data should cite the original publication:
 - Holubecki, AM, Yarbrough, JB, Rangarajan, V, Kuperman, R, Knight, RT, Johnson, EL. High-frequency broadband activity detected noninvasively in infants distinguishes wake from sleep states. _bioRxiv_ (2025). [DOI](https://doi.org/10.1101/2025.08.08.668962)
